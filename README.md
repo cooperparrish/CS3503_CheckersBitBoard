@@ -25,8 +25,8 @@ This project demonstrates efficient bit manipulation techniques by implementing 
 Enter moves as: "from_row from_col to_row to_col"
 
 ### Example Moves 
-5 0 4 1 -> Move piece from (5,0) to (4,1)
-5 2 3 4 -> Jump opponent piece (if at 4,3)
+- 5 0 4 1 -> Move piece from (5,0) to (4,1)
+- 5 2 3 4 -> Jump opponent piece (if at 4,3)
 
 ### Legend
 r/R = Red (regular/king) | b/B = Black (regular/king) | . = Light square | = Empty
